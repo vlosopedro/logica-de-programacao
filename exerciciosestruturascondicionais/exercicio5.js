@@ -1,4 +1,4 @@
-imc = 75 / (1.74 * 1.74);
+imc = 60 / (1.74 * 1.74);
 if (imc < 18.5) {
     console.log("Abaixo do peso");
 } else if (imc >= 18.5 && imc < 25) {
