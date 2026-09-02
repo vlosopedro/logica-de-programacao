@@ -1,4 +1,4 @@
-ano = 2016;
+ano = 2020;
  if  (ano % 4 == 0 && ano % 100 != 0 || ano % 400 == 0) {
     console.log("O ano " + ano + " é bissexto.");
  }  else {
